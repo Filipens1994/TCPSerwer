@@ -51,6 +51,7 @@
             this.polacz.TabIndex = 1;
             this.polacz.Text = "polacz";
             this.polacz.UseVisualStyleBackColor = true;
+            this.polacz.Click += new System.EventHandler(this.polacz_Click);
             // 
             // Adres
             // 
